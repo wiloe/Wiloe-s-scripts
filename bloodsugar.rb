@@ -1,5 +1,5 @@
 #! /usr/bin/ruby
-:#this just a simple ruby program to take make a log of ones bloodsuagar, 
+#this just a simple ruby program to take make a log of ones bloodsuagar, 
 #the format is really simple using yamle to store the data for later retrival.
 require 'yaml'
 #ask the question
